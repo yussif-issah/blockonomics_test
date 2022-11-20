@@ -1,0 +1,6 @@
+{
+    "/api": {
+    "target": "https://www.blockonomics.co/api/currencies",
+    "secure": false
+    }
+    }

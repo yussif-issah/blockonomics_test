@@ -1,0 +1,50 @@
+.bar{
+    height: 60px;
+    width: 100%;
+    color: white;
+    background-color: #f2f5f8;
+    margin-top: 0%;
+  }
+  .bar img {
+    padding-left: 16px;
+    padding-top: 10px;
+  }
+  .main{
+    width: 100%;
+    margin-top: 80px;
+    align-self: center;
+    text-align: center;
+  }
+  .message{
+    font-size:50px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .priceArea{
+    height: auto;
+    width: 630px;
+    background-color: #f2f5f8;
+  }
+
+  .from{
+    border: 2px solid blue ;
+    background-color: #f2f5f8;
+    float: left;
+    width: 50%;
+    height: 120px;
+    border-radius: 5px 0px 0px 5px;
+  }
+  .to{
+    background-color: #f2f5f8;
+    border-top: 2px solid blue ;
+    border-bottom: 2px solid blue ;
+    border-right: 2px solid blue ;
+    float: right;
+    width: 50%;
+    height: 120px;
+    border-radius: 0px 5px 5px 0px;
+  }
+  .down{
+    margin-top:2%;
+  }
